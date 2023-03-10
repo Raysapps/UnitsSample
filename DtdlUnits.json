@@ -1,0 +1,363 @@
+{
+
+  "families": {
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:AccelerationUnit": [
+      "centimetrePerSecondSquared",
+      "gForce",
+      "metrePerSecondSquared"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:AngleUnit": [
+      "degreeOfArc",
+      "minuteOfArc",
+      "radian",
+      "secondOfArc",
+      "turn"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:AngularAccelerationUnit": [
+      "radianPerSecondSquared"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:AngularVelocityUnit": [
+      "degreePerSecond",
+      "radianPerSecond",
+      "revolutionPerMinute",
+      "revolutionPerSecond"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:ApparentEnergyUnit": [
+      "gigavoltAmpereHour",
+      "kilovoltAmpereHour",
+      "megavoltAmpereHour",
+      "voltAmpereHour"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:ApparentPowerUnit": [
+      "gigavoltAmpere",
+      "kilovoltAmpere",
+      "megavoltAmpere",
+      "millivoltAmpere",
+      "voltAmpere"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:AreaUnit": [
+      "acre",
+      "hectare",
+      "squareCentimetre",
+      "squareFoot",
+      "squareInch",
+      "squareKilometre",
+      "squareMetre",
+      "squareMillimetre"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:BinaryPrefix": [
+      "exbi",
+      "gibi",
+      "kibi",
+      "mebi",
+      "pebi",
+      "tebi",
+      "yobi",
+      "zebi"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:CapacitanceUnit": [
+      "farad",
+      "microfarad",
+      "millifarad",
+      "nanofarad",
+      "picofarad"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:ChargeUnit": [
+      "ampereHour",
+      "coulomb",
+      "milliampereHour"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:CurrentUnit": [
+      "ampere",
+      "kiloampere",
+      "microampere",
+      "milliampere"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:DataRateUnit": [
+      "bitPerSecond",
+      "bytePerSecond",
+      "exbibitPerSecond",
+      "exbibytePerSecond",
+      "gibibitPerSecond",
+      "gibibytePerSecond",
+      "kibibitPerSecond",
+      "kibibytePerSecond",
+      "mebibitPerSecond",
+      "mebibytePerSecond",
+      "tebibitPerSecond",
+      "tebibytePerSecond",
+      "yobibitPerSecond",
+      "yobibytePerSecond",
+      "zebibitPerSecond",
+      "zebibytePerSecond"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:DataSizeUnit": [
+      "bit",
+      "byte",
+      "exbibit",
+      "exbibyte",
+      "gibibit",
+      "gibibyte",
+      "kibibit",
+      "kibibyte",
+      "mebibit",
+      "mebibyte",
+      "tebibit",
+      "tebibyte",
+      "yobibit",
+      "yobibyte",
+      "zebibit",
+      "zebibyte"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:DecimalPrefix": [
+      "atto",
+      "centi",
+      "deca",
+      "deci",
+      "exa",
+      "femto",
+      "giga",
+      "hecto",
+      "kilo",
+      "mega",
+      "micro",
+      "milli",
+      "nano",
+      "peta",
+      "pico",
+      "tera",
+      "yocto",
+      "yotta",
+      "zepto",
+      "zetta"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:DensityUnit": [
+      "gramPerCubicMetre",
+      "kilogramPerCubicMetre",
+      "microgramPerCubicMetre",
+      "milligramPerCubicMetre"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:EnergyUnit": [
+      "britishThermalUnit",
+      "electronvolt",
+      "gigajoule",
+      "gigawattHour",
+      "joule",
+      "kiloBritishThermalUnit",
+      "kilojoule",
+      "kilowattHour",
+      "megaelectronvolt",
+      "megajoule",
+      "megawattHour",
+      "milliwattHour",
+      "terawattHour",
+      "wattHour"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:ForceUnit": [
+      "newton",
+      "ounce",
+      "pound",
+      "ton"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:FrequencyUnit": [
+      "gigahertz",
+      "hertz",
+      "kilohertz",
+      "megahertz",
+      "millihertz"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:IlluminanceUnit": [
+      "footcandle",
+      "lux"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:InductanceUnit": [
+      "henry",
+      "microhenry",
+      "millihenry"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:IonizingRadiationDoseUnit": [
+      "gray",
+      "microgray",
+      "microsievert",
+      "milligray",
+      "millisievert",
+      "sievert"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:IrradianceUnit": [
+      "wattPerSquareMetre"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:LengthUnit": [
+      "astronomicalUnit",
+      "centimetre",
+      "foot",
+      "inch",
+      "kilometre",
+      "metre",
+      "micrometre",
+      "mile",
+      "millimetre",
+      "nanometre",
+      "nauticalMile"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:LuminanceUnit": [
+      "candelaPerSquareMetre"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:LuminousFluxUnit": [
+      "lumen"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:LuminousIntensityUnit": [
+      "candela"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:MagneticFluxUnit": [
+      "maxwell",
+      "weber"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:MagneticInductionUnit": [
+      "gauss",
+      "tesla"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:MassFlowRateUnit": [
+      "gramPerHour",
+      "gramPerSecond",
+      "kilogramPerHour",
+      "kilogramPerSecond",
+      "massPoundPerHour"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:MassUnit": [
+      "gram",
+      "kilogram",
+      "massPound",
+      "microgram",
+      "milligram",
+      "slug",
+      "tonne"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:PowerUnit": [
+      "britishThermalUnitPerHour",
+      "gigajoulePerHour",
+      "gigawatt",
+      "horsepower",
+      "joulePerHour",
+      "joulePerSecond",
+      "kiloBritishThermalUnitPerHour",
+      "kilojoulePerHour",
+      "kilojoulePerSecond",
+      "kilowatt",
+      "kilowattHourPerYear",
+      "megajoulePerHour",
+      "megawatt",
+      "microwatt",
+      "milliwatt",
+      "tonOfRefrigeration",
+      "watt"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:PressureUnit": [
+      "bar",
+      "decapascal",
+      "hectopascal",
+      "inchesOfMercury",
+      "inchesOfWater",
+      "kilopascal",
+      "millibar",
+      "millimetresOfMercury",
+      "pascal",
+      "poundPerSquareInch"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:RadioactivityUnit": [
+      "becquerel",
+      "gigabecquerel",
+      "kilobecquerel",
+      "megabecquerel"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:ReactiveEnergyUnit": [
+      "gigavoltAmpereReactiveHour",
+      "kilovoltAmpereReactiveHour",
+      "megavoltAmpereReactiveHour",
+      "voltAmpereReactiveHour"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:ReactivePowerUnit": [
+      "gigavoltAmpereReactive",
+      "kilovoltAmpereReactive",
+      "megavoltAmpereReactive",
+      "millivoltAmpereReactive",
+      "voltAmpereReactive"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:ResistanceUnit": [
+      "kiloohm",
+      "megaohm",
+      "milliohm",
+      "ohm"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:SoundPressureUnit": [
+      "bel",
+      "decibel"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:TemperatureUnit": [
+      "degreeCelsius",
+      "degreeFahrenheit",
+      "kelvin"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:TimeUnit": [
+      "day",
+      "hour",
+      "microsecond",
+      "millisecond",
+      "minute",
+      "nanosecond",
+      "second",
+      "year"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:TorqueUnit": [
+      "newtonMetre"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:Unitless": [
+      "partsPerBillion",
+      "partsPerMillion",
+      "partsPerQuadrillion",
+      "partsPerTrillion",
+      "percent",
+      "unity"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:VelocityUnit": [
+      "centimetrePerSecond",
+      "kilometrePerHour",
+      "kilometrePerSecond",
+      "knot",
+      "metrePerHour",
+      "metrePerSecond",
+      "milePerHour",
+      "milePerSecond"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:VoltageUnit": [
+      "kilovolt",
+      "megavolt",
+      "microvolt",
+      "millivolt",
+      "volt"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:VolumeFlowRateUnit": [
+      "cubicFootPerMinute",
+      "cubicMetrePerHour",
+      "cubicMetrePerMinute",
+      "cubicMetrePerSecond",
+      "gallonPerHour",
+      "gallonPerMinute",
+      "litrePerHour",
+      "litrePerMinute",
+      "litrePerSecond",
+      "millilitrePerHour",
+      "millilitrePerMinute",
+      "millilitrePerSecond"
+    ],
+    "dtmi:dtdl:extension:quantitativeTypes:v1:enum:VolumeUnit": [
+      "cubicCentimetre",
+      "cubicFoot",
+      "cubicInch",
+      "cubicMetre",
+      "fluidOunce",
+      "gallon",
+      "litre",
+      "millilitre"
+    ]
+  }
+}
